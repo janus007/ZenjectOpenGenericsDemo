@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZenjectOpenGenericsDemo.CSharp", "ZenjectOpenGenericsDemo.CSharp.csproj", "{EBF7D4EE-162D-41CF-53D3-22D182F2C23B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZenjectOpenGenericsDemo.CSharp.Editor", "ZenjectOpenGenericsDemo.CSharp.Editor.csproj", "{146FB347-F3DF-5887-1592-CFE5C5A94006}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBF7D4EE-162D-41CF-53D3-22D182F2C23B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBF7D4EE-162D-41CF-53D3-22D182F2C23B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBF7D4EE-162D-41CF-53D3-22D182F2C23B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBF7D4EE-162D-41CF-53D3-22D182F2C23B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{146FB347-F3DF-5887-1592-CFE5C5A94006}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{146FB347-F3DF-5887-1592-CFE5C5A94006}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{146FB347-F3DF-5887-1592-CFE5C5A94006}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{146FB347-F3DF-5887-1592-CFE5C5A94006}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
